@@ -1,0 +1,67 @@
+* {
+    background-color: rgb(162, 255, 255);
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    outline: auto;
+    background-color: rgb(255, 243, 176);
+}
+
+li {
+    font-weight:bold;
+}
+
+.receitas {
+    text-transform: uppercase;
+    font-size: larger;
+    outline: auto;
+}
+
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+    outline: auto;
+}
+
+.dica {
+    text-align: center;
+    outline: auto;
+    background-color: aquamarine;
+}
+
+.fonte {
+    text-align: center;
+    color: rgb(0, 132, 255);
+    font-size: small;
+    margin: auto;
+}
+
+.retorno {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.contorno {
+    outline: auto;
+}
+
+.detalhamento {
+    margin-right: 10px;
+    margin-top: 1px;
+    margin-bottom: 10px;
+}
+
+ol,
+ul,
+.dica {
+    padding: 10px 50px;
+}
